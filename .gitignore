@@ -1,0 +1,22 @@
+# Never publish captures, cookies, or captured data
+*.mitm
+*.mitmproxy
+flows*.txt
+flows*.mitm
+recon/
+requests/
+screenshots/
+evidence/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
