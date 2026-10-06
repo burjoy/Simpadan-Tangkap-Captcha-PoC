@@ -3,21 +3,33 @@
 ## Informasi Umum
 
 **Judul Laporan**
+
+
 Captcha Bypass / Broken Anti-Automation pada `captcha.php` Aplikasi SIMPADAN TANGKAP
 
 **Jenis kerentanan dan nama Sistem Elektronik**
+
+
 Broken Access Control / Insufficient Anti-Automation (Captcha Bypass) — SIMPADAN TANGKAP, Dinas Peternakan dan Perikanan Kabupaten Situbondo (`perikanantangkap.situbondokab.go.id`)
 
 **Jenis Kerentanan**
+
+
 Broken Access Control / Insufficient Anti-Automation
 
 **Path URL**
+
+
 https://perikanantangkap.situbondokab.go.id/simpadan/captcha.php
 
 **IP Address Penguji**
+
+
 36.91.84.227
 
 **Tingkat Severity**
+
+
 Medium
 
 ---
