@@ -105,11 +105,3 @@ The script is intentionally bounded: 5 requests, no loops, no wordlists.
 4. Replace the homemade captcha with a bot-management solution
    (e.g. Cloudflare Turnstile).
 5. Audit all endpoints protected only by the captcha.
-
-## Disclosure timeline
-
-| Date | Event |
-|---|---|
-| 2026-10-05 | Vulnerability discovered and validated |
-| 2026-10-__ | Reported to the program |
-| — | Public disclosure only after vendor confirmation |
