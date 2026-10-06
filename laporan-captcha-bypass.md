@@ -99,4 +99,3 @@ Tidak ada data pribadi yang dieksfiltrasi pada pengujian ini; temuan dibuktikan 
 
 - `poc/captcha_bypass_poc.py` — skrip PoC.
 - Log HTTP permintaan/respons di atas (get_csrf_token → generate → verify).
-- Lampirkan bukti tambahan bila diperlukan.
